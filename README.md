@@ -11,7 +11,7 @@ Nesse projeto você pode fazer o cálculo da gasolina e do álcool.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212425571-83440356-636c-4629-aff2-252955909b63.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212425571-83440356-636c-4629-aff2-252955909b63.jpg" width="700px">
 </p>
 
 <br>
